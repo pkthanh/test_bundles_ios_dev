@@ -1,0 +1,3 @@
+News:2
+Cafe_Bungle:1
+Adventure_Background_bundle:2
